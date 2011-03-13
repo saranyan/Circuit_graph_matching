@@ -1,0 +1,6 @@
+Software for computing the similarity of structured data like two circuit netlists.
+Based on VFLIB graph matching algorithm. 
+This was part of Capital Factory 2010 finalist demo.
+Ported to C#.
+
+
